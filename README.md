@@ -1,0 +1,2 @@
+# Uncommon CSS Errors
+This repository demonstrates and resolves some uncommon errors encountered in CSS.  The `bug.css` file contains the problematic code, and `bugSolution.css` provides the corrected version.  The errors highlighted here are often subtle and difficult to debug, particularly those related to unexpected selector behavior or unsupported properties.
